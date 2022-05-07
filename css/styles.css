@@ -60,6 +60,11 @@ body{
   font-size: 1.5rem;
 }
 
+.download-font{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
 
 /* -------------------------------Title Image ---------------------------*/
 
